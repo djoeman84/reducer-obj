@@ -1,6 +1,6 @@
 {
   "name": "reducer-obj",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "license": "MIT",
   "description": "A package to allow you to write reducers as objects",
   "keywords": [
@@ -30,12 +30,12 @@
     "babel-plugin-transform-runtime": "^6.7.5",
     "babel-polyfill": "^6.7.4",
     "babel-preset-es2015": "^6.6.0",
+    "babel-runtime": "^6.6.1",
     "chai": "^3.5.0",
     "eslint": "^2.7.0",
     "eslint-config-airbnb": "^7.0.0",
     "eslint-plugin-import": "^1.4.0",
     "mocha": "^2.4.5",
-    "rimraf": "^2.5.2",
-    "babel-runtime": "^6.6.1"
+    "rimraf": "^2.5.2"
   }
 }
